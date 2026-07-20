@@ -1,0 +1,2 @@
+# ExportVBA
+AccessまたはExcelのVBAをPowershellを使ってExportするツール
